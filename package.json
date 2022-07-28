@@ -1,0 +1,17 @@
+{
+    "name": "newswatcher",
+    "version": "0.0.0",
+    "description": "NewsWatcher",
+    "main": "server.js",
+    "author": {
+      "name": "Jerald Baroro",
+      "email": "spaueOfficial@gmail.com"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.1"
+    }
+  }
+  
